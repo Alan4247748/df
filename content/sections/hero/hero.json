@@ -1,20 +1,17 @@
 {
-  "intro": "Hej",
+  "intro": "Unmatched Smoothness",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/Hero.png",
+    "alt": "Graphic Illustration"
   },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm a Gatsby Starter",
+ 
+  "title": "With Activated Carbon Filters",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Experience the difference ",
+    "highlight": "yourself",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Elevate your smoking sessions.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

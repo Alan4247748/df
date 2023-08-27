@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Das Filter" },
+    "logo": { "text": "DAS FILTER" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
