@@ -1,4 +1,4 @@
-<img src="readme.png" alt="Das Filter concept graphic" width="700" />
+![LGraphic](Readme.png)
 
 # Das Filter Gatsby Framework Part 2
 
