@@ -1,19 +1,17 @@
 {
-  "intro": "Unmatched Smoothness",
+  "intro": "Activated Carbon Filters",
   "heroPhoto": {
     "src": "../../images/Hero.png",
     "alt": "Graphic Illustration"
   },
- 
-  "title": "With Activated Carbon Filters",
+  "title": "Puff‍ 💨 Smooth",
   "subtitle": {
-    "prefix": "Experience the difference ",
-    "highlight": "yourself",
+    "highlight": "You Deserve It",
     "suffix": "."
   },
-  "description": "Elevate your smoking sessions.",
+  "description": "Remove Goop",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["instagram", "Twitter", "Linkedin"],
     "showIcons": false
   }
 }
