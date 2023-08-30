@@ -1,14 +1,14 @@
 {
   "interests": [
     {
-      "label": "Filters Toxins",
+      "label": "Removes Toxins",
       "image": {
         "src": "../../images/Toxins.png",
         "alt": ""
       }
     },
     {
-      "label": "Reduced Harshness",
+      "label": "Less Harsh",
       "image": {
         "src": "../../images/lungs.png",
         "alt": ""
