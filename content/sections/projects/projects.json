@@ -2,42 +2,36 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ 6 MM",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "category": "BIGGIN'",
+      "title": "8 mm by 35 mm ",
+      "description": "Whether you're rolling large joints or enjoying single-hit pipes—this filter has the largest volume for delivering superior filtration.",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "src": "../../images/8mm.png",
+        "alt": "8 mm activated carbon filter"
+      }
     },
     {
       "visible": true,
-      "category": "🧰 THE BIGGIN'",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "category": "MIDWAY",
+      "title": "7 mm by 27 mm",
+      "description": "Considered the ideal size by many. Experience improved flavor, cooler smoke, and fewer coughs",
       "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "8 mm"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/7mm.png",
+        "alt": "7 mm activated carbon filter"
+      }
+    },
+    {
+      "visible": true,
+      "category": "SLIMJIM",
+      "title": "6 mm by 27 mm",
+      "description": "This activated charcoal filter is only half-filled, resulting in fewer pollutants being filtered and a more robust taste experience. With its 6 mm size, it's the smallest member of the DAS FILTER family.",
+      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "image": {
+        "src": "../../images/6mm.png",
+        "alt": "6 mm activated carbon filter"
+      }
     }
   ],
   "button": {

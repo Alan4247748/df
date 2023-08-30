@@ -3,11 +3,11 @@
     "language": "en",
     "siteUrl": "https://dasfilter.co/",
     "title": "DAS FILTER",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · DAS FILTER",
     "description": "DAS FILTER activated carbon tips—removes toxins, less harsh, cough less and cooler smoke.",
     "author": "Donoho Murphy",
     "avatar": "../content/images/avatar.png",
-    "bio": "Writer",
+    "bio": "",
     "social": {
       "instagram": "https://www.instagram.com/das_filter/",
       "twitter": "https://twitter.com/Das_Filter",
@@ -20,9 +20,9 @@
     "logo": { "text": "DAS FILTER" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" }
+        { "label": "Benefits", "url": "/#about" },
+        { "label": "Products", "url": "/#features" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
