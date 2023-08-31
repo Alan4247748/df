@@ -15,7 +15,6 @@
       "category": "MIDWAY",
       "title": "7 mm by 27 mm",
       "description": "Considered the ideal size by many. Experience improved flavor, cooler smoke, and fewer coughs",
-      "tags": ["Custom Sections", "Easy-2-Use"],
       "image": {
         "src": "../../images/7mm.png",
         "alt": "7 mm activated carbon filter"
@@ -26,7 +25,6 @@
       "category": "SLIMJIM",
       "title": "6 mm by 27 mm",
       "description": "This activated charcoal filter is only half-filled, resulting in fewer pollutants being filtered and a more robust taste experience. With its 6 mm size, it's the smallest member of the DAS FILTER family.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/6mm.png",
         "alt": "6 mm activated carbon filter"
@@ -36,6 +34,6 @@
   "button": {
     "visible": true,
     "label": "Contact Sales",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://kqboip7fn4v.typeform.com/to/SZhBO0EA"
   }
 }

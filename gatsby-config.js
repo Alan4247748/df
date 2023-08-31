@@ -27,3 +27,7 @@ module.exports = {
     },
   ],
 };
+
+// Plausible Analytics Script
+<script defer data-domain="dasfilter.co" src="https://plausible.io/js/script.js"></script>
+
