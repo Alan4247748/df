@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/illustration-1.png"
+imageSrc: "../../images/Illustration-1.png"
 imageAlt: "X-ray view of Filter"
 ---
 
