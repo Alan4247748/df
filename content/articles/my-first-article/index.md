@@ -12,7 +12,7 @@ keywords:
   - "Activated Carbon"
   - "Industrial Uses"
   - "Filters"
-  - "Blog"
+  - "Plastic Free"
 ---
 
 In the world of smoking, enthusiasts are constantly seeking ways to enhance their experience while minimizing potential health risks. One innovative solution that has gained popularity is the use of activated carbon filters for smoking joints. These filters offer a unique approach to enjoying tobacco or herbal products by significantly improving the quality of the smoke and reducing harmful toxins.
