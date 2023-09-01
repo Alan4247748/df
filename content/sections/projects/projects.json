@@ -2,9 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "BIGGIN'",
-      "title": "8 mm by 35 mm ",
-      "description": "Whether you're rolling large joints or enjoying single-hit pipes—this filter has the largest volume for delivering superior filtration.",
+      "category": "8 mm by 35 mm",
+      "title": "BIG BOY",
+      "description": "Perfect for cones and large joints. The BIGGIN' has the largest volume for delivering superior experience.",
       "image": {
         "src": "../../images/8mm.png",
         "alt": "8 mm activated carbon filter"
@@ -12,9 +12,9 @@
     },
     {
       "visible": true,
-      "category": "MIDWAY",
-      "title": "7 mm by 27 mm",
-      "description": "Considered the ideal size by many. Experience improved flavor, cooler smoke, and fewer coughs",
+      "category": "7 mm by 27 mm",
+      "title": "MIDWAY",
+      "description": "Considered the ideal size by many. The MIDWAY provides improved flavor, cooler smoke, and fewer coughs",
       "image": {
         "src": "../../images/7mm.png",
         "alt": "7 mm activated carbon filter"
@@ -22,9 +22,9 @@
     },
     {
       "visible": true,
-      "category": "SLIMJIM",
-      "title": "6 mm by 27 mm",
-      "description": "This activated charcoal filter is only half-filled, resulting in fewer pollutants being filtered and a more robust taste experience. With its 6 mm size, it's the smallest member of the DAS FILTER family.",
+      "category": "6 mm by 27 mm",
+      "title": "SLIMJIM",
+      "description": "The SLIMJIM comes only half-filled with activated carbon, resulting in a more robust taste. With its 6 mm size, it's the smallest member of the DAS FILTER family.",
       "image": {
         "src": "../../images/6mm.png",
         "alt": "6 mm activated carbon filter"

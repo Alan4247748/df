@@ -1,6 +1,6 @@
 ---
 title: "What Is Activated Carbon?"
-description: ": Learn how activated carbon works, its applications, and benefits such as adsorbing impurities, improves air and water quality. Plus its various industrial processes."
+description: ": Activated carbon works, by adsorbing impurities, improves smoke quaility, decreased harshness resulting in fewer coughs."
 date: "2023-08-30"
 banner:
   src: "../../images/Banner.png"
@@ -12,7 +12,7 @@ keywords:
   - "Activated Carbon"
   - "Industrial Uses"
   - "Filters"
-  - "Blog"
+  - "Plastic Free"
 ---
 
 In the world of smoking, enthusiasts are constantly seeking ways to enhance their experience while minimizing potential health risks. One innovative solution that has gained popularity is the use of activated carbon filters for smoking joints. These filters offer a unique approach to enjoying tobacco or herbal products by significantly improving the quality of the smoke and reducing harmful toxins.
