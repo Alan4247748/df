@@ -27,6 +27,6 @@ One of the primary benefits of using activated carbon filters for smoking joints
 
 ## Plastic Free 
 
-The filter is broken down into three components cermaic caps, activated carbon, and paper. The activated carbon is made from the shell of a coconut 🥥. Since, they are plastic free They can be disposed of in an eco-friendly manner. Additionally, the improved smoking experience they offer might lead to smokers consuming less overall, further contributing to a reduced environmental impact.
+The filter is broken down into three components ceramic caps, activated carbon, and paper. The activated carbon is made from the shell of a coconut 🥥. Since, they are plastic free its easy to dispose of them in an eco-friendly manner. Additionally, the improved smoking experience they offer might lead to smokers consuming less overall, further contributing to a reduced environmental impact.
 
 In conclusion, activated carbon filters offer a game-changing solution for individuals who seek a more enjoyable and healthier smoking experience. By effectively adsorbing impurities, reducing harmful toxins, and providing a smoother and milder smoke, these filters have transformed the way smoking enthusiasts approach their favorite pastime. Whether you're a casual smoker or daily, activated carbon filters is worth trying. Once you do you won't roll a paper crutch again.
