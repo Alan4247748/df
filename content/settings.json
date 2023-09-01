@@ -37,8 +37,7 @@
     "featureToggles": {
       "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
-      "useCookieBar": false
-      "showDarkModeToggle": true 
+      "useCookieBar": false 
     }
   }
 }
