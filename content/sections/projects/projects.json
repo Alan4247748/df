@@ -8,6 +8,11 @@
       "image": {
         "src": "../../images/illustration-6.png",
         "alt": "8 mm activated carbon filter"
+      },
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Merch",
+        "url": "https://dasfilter.creator-spring.com"
       }
     },
     {
@@ -18,6 +23,11 @@
       "image": {
         "src": "../../images/illustration-5.png",
         "alt": "7 mm activated carbon filter"
+      },
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Merch",
+        "url": "https://dasfilter.creator-spring.com"
       }
     },
     {
@@ -28,6 +38,11 @@
       "image": {
         "src": "../../images/6mm.png",
         "alt": "6 mm activated carbon filter"
+      },
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Merch",
+        "url": "https://dasfilter.creator-spring.com"
       }
     }
   ],
