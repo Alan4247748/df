@@ -6,17 +6,17 @@
   },
   "title": "Clean 💨 Puff‍(s)",
   "subtitle": {
-    "highlight": "",
+    "highlight": "Remove Toxins",
     "suffix": "",
     "description": "",
-    "socialProfiles": {
-      "from": ["instagram"],
-      "showIcons": false
-    },
     "button": {
       "visible": true,
       "label": "Contact Sales",
       "url": "https://kqboip7fn4v.typeform.com/to/SZhBO0EA"
+    },
+    "socialProfiles": {
+      "from": ["instagram"],
+      "showIcons": false
     }
   }
 }

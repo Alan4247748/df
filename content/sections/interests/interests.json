@@ -8,9 +8,10 @@
       }
     },
     {
-      "label": "Less Harsh",
+
+      "label": "Cooler Smoke",
       "image": {
-        "src": "../../images/lungs.png",
+        "src": "../../images/SF.png",
         "alt": ""
       }
     },
@@ -22,9 +23,9 @@
       }
     },
     {
-      "label": "Cooler Smoke",
+      "label": "Less Harsh",
       "image": {
-        "src": "../../images/SF.png",
+        "src": "../../images/lungs.png",
         "alt": ""
       }
     },
@@ -60,6 +61,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 3
   }
 }
