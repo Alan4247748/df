@@ -2,11 +2,11 @@
   "projects": [
     {
       "visible": true,
-      "title": "BIG BOY",
       "category": "8 mm by 35 mm",
       "description": "Perfect for cones and large joints. The BIGGIN' has the largest volume for delivering superior experience.",
+      "title": "BIG BOY",
       "image": {
-        "src": "../../images/8mm.png",
+        "src": "../../images/illustration-6.png",
         "alt": "8 mm activated carbon filter"
       }
     },
@@ -16,7 +16,7 @@
       "category": "7 mm by 27 mm",
       "description": "Considered the ideal size by many. The MIDWAY provides improved flavor, cooler smoke, and fewer coughs",
       "image": {
-        "src": "../../images/7mm.png",
+        "src": "../../images/illustration-5.png",
         "alt": "7 mm activated carbon filter"
       }
     },
