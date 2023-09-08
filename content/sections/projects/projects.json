@@ -8,6 +8,11 @@
       "image": {
         "src": "../../images/illustration-6.png",
         "alt": "8 mm activated carbon filter"
+      },
+      "button": {
+        "visible": true,
+        "label": "Buy Filters",
+        "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
       }
     },
     {

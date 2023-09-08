@@ -20,7 +20,6 @@
     "logo": { "text": "DAS FILTER" },
     "navigation": {
       "header": [
-        { "label": "Benefits", "url": "/#about" },
         { "label": "Products", "url": "/#features" },
         { "label": "Blog", "url": "/blog" }
       ],
@@ -31,7 +30,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Legal", "url": "/imprint" }
       ]
     },
     "featureToggles": {
