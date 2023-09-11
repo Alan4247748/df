@@ -2,11 +2,27 @@
   "projects": [
     {
       "visible": true,
+      "title": "DAS CONES",
       "category": "",
-      "description": "8 mm by 35 mm, BIGBOY is perfect for cones and larger paper sizes. Thelargest volume of activated carbon for the cleanest smoke.",
+      "description": "98 mm pre-rolled Natural Acacia Gum papers with a MIDWAY filters.",
+      "image": {
+        "src": "../../images/Das-cone-2.png",
+        "alt": "Das-cone-product-image"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "description": "8 mm by 35 mm, BIGBOY is perfect for cones and larger paper sizes. The largest volume of activated carbon for the cleanest smoke.",
       "title": "BIG BOY",
       "image": {
-        "src": "../../images/illustration-7.png",
+        "src": "../../images/illustration-14.png",
         "alt": "8 mm activated carbon filter"
       },
       "links": [
