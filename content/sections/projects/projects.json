@@ -2,43 +2,58 @@
   "projects": [
     {
       "visible": true,
-      "category": "8 mm by 35 mm",
-      "description": "Perfect for cones and large joints. The BIGGIN' has the largest volume for delivering superior experience.",
+      "category": "",
+      "description": "8 mm by 35 mm, BIGBOY is perfect for cones and larger paper sizes. Thelargest volume of activated carbon for the cleanest smoke.",
       "title": "BIG BOY",
       "image": {
         "src": "../../images/illustration-7.png",
         "alt": "8 mm activated carbon filter"
       },
-      "button": {
-        "visible": true,
-        "label": "Buy Filters",
-        "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
-      }
+      "links": [
+        {
+          "type": "external",
+          "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
+        }
+      ]
     },
     {
       "visible": true,
       "title": "MIDWAY",
-      "category": "7 mm by 27 mm",
-      "description": "Considered the ideal size by many. The MIDWAY provides improved flavor, cooler smoke, and fewer coughs",
+      "category": "",
+      "description": "7 mm by 27 mm, MIDWAY is considered the ideal size by many—provides improved flavor, cooler smoke, and fewer coughs",
       "image": {
         "src": "../../images/illustration-5.png",
         "alt": "7 mm activated carbon filter"
-      }
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
+        }
+      ]
     },
     {
       "visible": true,
       "title": "SLIMJIM",
       "category": "6 mm by 27 mm",
-      "description": "The SLIMJIM comes only half-filled with activated carbon, resulting in a more robust taste. With its 6 mm size, it's the smallest member of the DAS FILTER family.",
+      "description": "6 mm by 27 mm, SLIMJIM comes only half-filled with activated carbon, resulting in a more robust taste.",
       "image": {
         "src": "../../images/6mm.png",
         "alt": "6 mm activated carbon filter"
-      }
+      },
+      "links": [
+        {
+          "label": "buy",
+          "type": "external",
+          "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
+        }
+      ]
     }
   ],
   "button": {
     "visible": true,
     "label": "Contact Sales",
+    "buttoncolor": "#FF5733",
     "url": "https://kqboip7fn4v.typeform.com/to/SZhBO0EA"
   }
 }
