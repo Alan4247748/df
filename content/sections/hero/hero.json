@@ -8,15 +8,17 @@
   "subtitle": {
     "highlight": "Remove Toxins",
     "suffix": "",
-    "description": "",
-    "button": {
-      "visible": true,
-      "label": "Merch",
-      "url": "https://dasfilter.creator-spring.com"
-    },
-    "socialProfiles": {
-      "from": ["instagram"],
-      "showIcons": false
-    }
+    "description": ""
+  },
+  "socialProfiles": {
+    "from": ["instagram"],
+    "showIcons": false
+  },
+  "button": {
+    "visible": true,
+    "label": "MERCH",
+    "url": "https://kqboip7fn4v.typeform.com/to/SZhBO0EA"
   }
 }
+
+

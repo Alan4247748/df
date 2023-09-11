@@ -3,7 +3,7 @@ title: "What Is Activated Carbon?"
 description: ": Activated carbon works, by adsorbing impurities, eemove toxins, cool the smoke, = fewer coughs."
 date: "2023-08-30"
 banner:
-  src: "../../images/Banner.png"
+  src: "../../images/Bg1.png"
   alt: "Das Filter illustration"
 categories:
   - "Research"
