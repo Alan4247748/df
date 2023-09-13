@@ -4,13 +4,14 @@
       "visible": true,
       "title": "DAS CONES",
       "category": "",
-      "description": "98 mm pre-rolled Natural Acacia Gum papers with a MIDWAY filters.",
+      "description": "98 mm (6) premium pre-rolls made with Natural Acacia Gum paper and a Das Filter.",
       "image": {
         "src": "../../images/Das-cone-2.png",
         "alt": "Das-cone-product-image"
       },
       "links": [
         {
+          "label": "buy",
           "type": "external",
           "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
         }
@@ -19,7 +20,7 @@
     {
       "visible": true,
       "category": "",
-      "description": "8 mm by 35 mm, BIGBOY is perfect for cones and larger paper sizes. The largest volume of activated carbon for the cleanest smoke.",
+      "description": "8 mm by 35 mm, 20x the BIGBOY is perfect larger paper sizes. It has the largest volume of activated carbon for the smoothest taste.",
       "title": "BIG BOY",
       "image": {
         "src": "../../images/illustration-14.png",
@@ -27,6 +28,7 @@
       },
       "links": [
         {
+          "label": "buy",
           "type": "external",
           "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
         }
@@ -36,13 +38,14 @@
       "visible": true,
       "title": "MIDWAY",
       "category": "",
-      "description": "7 mm by 27 mm, MIDWAY is considered the ideal size by many—provides improved flavor, cooler smoke, and fewer coughs",
+      "description": "7 mm by 27 mm, 20x the MIDWAY is the ideal size to deliver a smooth draw.",
       "image": {
         "src": "../../images/illustration-5.png",
         "alt": "7 mm activated carbon filter"
       },
       "links": [
         {
+          "label": "buy",
           "type": "external",
           "url": "https://buy.stripe.com/5kAeVhgQJg035RS7ss"
         }
@@ -51,7 +54,7 @@
     {
       "visible": true,
       "title": "SLIMJIM",
-      "category": "6 mm by 27 mm",
+      "category": "",
       "description": "6 mm by 27 mm, SLIMJIM comes only half-filled with activated carbon, resulting in a more robust taste.",
       "image": {
         "src": "../../images/6mm.png",
@@ -68,7 +71,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Contact Sales",
+    "label": "Buy",
     "buttoncolor": "#FF5733",
     "url": "https://kqboip7fn4v.typeform.com/to/SZhBO0EA"
   }

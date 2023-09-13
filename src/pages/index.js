@@ -16,10 +16,10 @@ export default function IndexPage() {
       <Seo title="Das Filter" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <InterestsSection sectionId="details" heading="KEY BENEFITS" />
+        <InterestsSection sectionId="details" heading="BENEFITS" />
         <ProjectsSection sectionId="features" heading="PRODUCTS" />
-        <AboutSection sectionId="about" heading="WHAT'S THE CARBON?" />
-        <ArticlesSection sectionId="articles" heading="ARTICLES" sources={['blog']} />
+        <AboutSection sectionId="about" heading="ACTIVATED CARBON?" />
+        <ArticlesSection sectionId="articles" heading="" sources={['blog']} />
         <ContactSection sectionId="github" heading="" />
       </Page>
     </>
