@@ -39,5 +39,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gatsby-cli": "^5.12.1"
+  }
 }
