@@ -1,7 +1,5 @@
 [[redirects]]
-  from = "https://dasfilter.co/:path"
-  to = "https://dasfilter.shop/:path"
+  from = "/*"
+  to = "https://dasfilter.shop/:splat"
   status = 301
   force = true
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
