@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://dasfilter.shop/:splat"
+  to = "https://dasfilter.netlify.app:splat"
   status = 301
   force = true
